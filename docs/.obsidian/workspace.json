@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blocks/Character Blocks.md",
+                "file": "Player's Guide/Getting Started/06 - Begin Your Adventure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blocks/Character Blocks.md",
+                "file": "Player's Guide/Getting Started/06 - Begin Your Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blocks/Character Blocks.md",
+                "file": "Player's Guide/Getting Started/06 - Begin Your Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blocks/Character Blocks.md"
+                "file": "Player's Guide/Getting Started/06 - Begin Your Adventure.md"
               }
             }
           },
@@ -157,46 +157,11 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "floating": {
-    "id": "d3a94e0d7fa61b7c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e0729d3ff9ab946b",
-        "type": "window",
-        "children": [
-          {
-            "id": "258c43517a057b6f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d7efcf1be9337275",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Blocks/Character Blocks.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 270,
-        "y": 435,
-        "width": 800,
-        "height": 400,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d7efcf1be9337275",
+  "active": "e241c2813ce59ca4",
   "lastOpenFiles": [
     "Blocks/Character Blocks.md",
+    "Player's Guide/Getting Started/06 - Begin Your Adventure.md",
+    "Player's Guide/Getting Started/04 - Create Your Character.md",
     "Other Features/Rulesets and Homebrew.md",
     "index.md",
     "Player's Guide/Getting Started/03 - Choose Your Truths.md",
@@ -208,7 +173,6 @@
     "Blocks/Mechanics Blocks.md",
     "Player's Guide/index.md",
     "Player's Guide/Getting Started/05 - Build a Starting Sector.md",
-    "Player's Guide/Getting Started/04 - Create Your Character.md",
     "Player's Guide/Getting Started/01 - Initial Setup.md",
     "Entities/Factions.md",
     "Entities/Assets.md",
@@ -221,7 +185,6 @@
     "Entities/Settlements.md",
     "Entities/Sectors.md",
     "Entities/Planets.md",
-    "Entities/Creatures.md",
     "Support/img/Player's Guide/finalized-sector.png",
     "Support/img/Player's Guide/sector-trouble.png",
     "Support/img/Player's Guide/completed-connection.png",
